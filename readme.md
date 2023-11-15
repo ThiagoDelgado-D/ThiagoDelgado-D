@@ -38,4 +38,4 @@ Hi, I'm **Thiago Delgado**, a passionate Full Stack web developer with a focus o
 
 ![TDelgadodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDelgadodev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-⭐️ From ![Tdelgado.dev](https://github.com/TDelgadodev)
+⭐️ From [Tdelgado.dev](https://github.com/TDelgadodev)
