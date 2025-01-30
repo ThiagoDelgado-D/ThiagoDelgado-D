@@ -33,9 +33,6 @@ Hi, I'm **Thiago Delgado**, a passionate Full Stack web developer with a focus o
 ![ThiagoDelgado-D's Stats](https://github-readme-stats.vercel.app/api?username=ThiagoDelgado-D&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br />
 
-![ThiagoDelgado-D's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoDelgado-D&theme=tokyonight&hide_border=false)
-<br />
-
 ![ThiagoDelgado-D's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDelgado-D&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ⭐️ From [ThiagoDelgado.dev](https://github.com/ThiagoDelgado-D)
