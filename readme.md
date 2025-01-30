@@ -30,12 +30,12 @@ Hi, I'm **Thiago Delgado**, a passionate Full Stack web developer with a focus o
 
 <br />
 
-![TDelgadodev's Stats](https://github-readme-stats.vercel.app/api?username=TDelgadodev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![ThiagoDelgado-D's Stats](https://github-readme-stats.vercel.app/api?username=ThiagoDelgado-D&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br />
 
-![TDelgadodev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TDelgadodev&theme=tokyonight&hide_border=false)
+![ThiagoDelgado-D's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoDelgado-D&theme=tokyonight&hide_border=false)
 <br />
 
-![TDelgadodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDelgadodev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![ThiagoDelgado-D's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDelgado-D&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-⭐️ From [Tdelgado.dev](https://github.com/TDelgadodev)
+⭐️ From [ThiagoDelgadp.dev](https://github.com/ThiagoDelgado-D)
