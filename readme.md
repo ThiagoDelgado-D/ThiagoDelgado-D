@@ -5,37 +5,46 @@
 
 ## About Me
 
-Full Stack Developer with a focus on backend and software architecture. Over the last year I've been shifting my attention from "how to build things" toward "why things are built the way they are" — understanding trade-offs, dependency boundaries, and design decisions rather than just applying patterns.
+Full Stack Developer with experience building end-to-end applications 
+and a growing focus on backend architecture and system design. 
 
-That shift is reflected in the projects I'm building and the way I'm approaching them.
+Over the last year I've been shifting from "how to build things" toward 
+"why things are built the way they are" — understanding trade-offs, 
+dependency boundaries, and design decisions rather than just applying patterns.
+
+That shift is reflected in the projects I'm building and the way I'm 
+approaching them.
 
 ## What I'm Working On
 
 ### 🔧 [EAP-Ecosystem](https://github.com/ThiagoDelgado-D/EAP-Ecosystem)
 
-A personal learning management system I'm building to solve a real problem: managing scattered content, reducing decision fatigue, and making learning sessions intentional based on energy and focus levels.
+A personal learning management system built around a common problem: 
+bookmarks pile up, courses get forgotten, and when you finally have 
+30 minutes free you don't know what to pick up. EAP centralizes your 
+learning content, lets you tag it with difficulty and energy requirements, 
+and will eventually suggest what to study based on how much time and 
+mental energy you actually have at that moment.
 
-Architecturally, it applies **Hexagonal Architecture** with a **Module-Based structure** where each module (learning resources, recommendations, users) is a bounded context with its own domain, application, and infrastructure layers. The `shared/` directory handles cross-cutting concerns without polluting individual domains.
-
-Currently at **v0.1.0** — domain and application layers are complete with >90% test coverage. Working toward the API layer next.
-
-This project is also my main learning laboratory for the architecture roadmap I've been following: fundamentals → design principles → patterns + DDD → applied architectures.
-
-### 📖 [Software Craftsmanship Notes](https://github.com/ThiagoDelgado-D/Software-Craftmanship-Notes)
-
-Personal notes where I document concepts as I work through them — Clean Architecture, DDD building blocks, SOLID in depth, ADRs. Written in my own words, not just summaries.
+This is also my main architectural laboratory. Every decision in the codebase 
+has a reason: Hexagonal Architecture to keep the domain independent, 
+a Module-Based structure to maintain clear boundaries between contexts, 
+and an incremental roadmap that prioritizes working software over 
+perfect infrastructure.
 
 ---
 
 ## Current Learning Focus
 
-Actively working through a structured roadmap on software architecture:
+Working through a structured roadmap on software architecture — from 
+fundamentals and design principles to applied architectures and frontend 
+patterns.
 
-- **Completed**: Architecture fundamentals, trade-off analysis, dependency inversion, SOLID in depth
-- **In progress**: Design patterns (Repository, Factory, Strategy) + DDD basics (Entities, Value Objects, Aggregates)
-- **Next**: Applied architectures (Clean, Hexagonal, Onion comparison) and end-to-end implementation
+Each topic follows a three-layer approach: understand the concept, apply 
+it in code, then document the reasoning behind the decisions made.
 
-The goal isn't just knowing the patterns — it's being able to justify _when_ to use them and _why_.
+The goal isn't to accumulate knowledge — it's to reach the point where 
+I can justify when to use a pattern and when not to.
 
 ---
 
